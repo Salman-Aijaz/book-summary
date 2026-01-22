@@ -4,9 +4,6 @@ You’ve got to be careful if you don’t know where you’re going,
 ’cause you might not get there.
                                                     —Yogi Berra
 
-## **Bull Market Baloney**
-Yar, neeche **same style** mein bana diya hai — **central title + Roman Urdu summary + English summary**, bilkul tumhare example jaisa 👇
-
 ---
 
 # **Bull-Market Baloney (The Intelligent Investor)**
@@ -82,13 +79,6 @@ The Michael Jordan example makes this clear. He may have been the greatest baske
 ---
 
 # **THE LIMITS OF OPTIMISM**
-
-Theek hai 👍
-Neeche **thore bullets + baqi simple paragraphs** mein samjha diya — **Roman Urdu + English dono**, bilkul notes-style.
-
----
-
-# **When Recent Returns Fool Investors**
 
 ---
 
@@ -166,11 +156,6 @@ If experts were disastrously wrong the last time they all agreed, why should the
 ---
 
 # **What's Next**
-Bilkul, Salman! Maine is text ko **paragraph type notes** mein convert kar diya, **Roman Urdu + English** dono mein. Flow natural aur easily samajh aaye jaisa rakha hai.
-
----
-
-# **Thinking About Future Returns (Graham Style)**
 
 ---
 
